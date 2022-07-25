@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afmile&label=Profile%20views&color=0e75b6&style=flat" alt="afmile" /> </p>
 
-- 🌱 I’m currently learning **Vuejs**
+- 🌱 Actualmente estoy aprendiendo **Vuejs**
 
-- 👨‍💻 All of my projects are available at [https://afmile.github.io/portafolio/](https://afmile.github.io/portafolio/)
+- 👨‍💻 Mis proyectos puedes encontrarlos en [https://afmile.github.io/portafolio/](https://afmile.github.io/portafolio/)
 
-- 📫 How to reach me **miguieles.lechenbauer@gmail.com**
+- 📫 Contacto **miguieles.lechenbauer@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
