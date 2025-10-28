@@ -1,10 +1,9 @@
 <h1 align="center">👋 ¡Hola! Soy <strong>Álvaro Miguieles Lechenbauer</strong></h1>
 <h3 align="center">💻 Desarrollador Front-End • 🇨🇱 Chile</h3>
 
-<!-- ✅ Banner animado corregido -->
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C853&center=true&vCenter=true&width=500&lines=Desarrollador+Front-End;Apasionado+por+la+tecnología+web;Siempre+aprendiendo+algo+nuevo+🚀)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C853&center=true&vCenter=true&width=500&lines=Desarrollador+Front-End;Apasionado+por+la+tecnología+web;Integrando+IA+y+Blockchain+en+la+vida+real+🌍)
 
 </div>
 
@@ -14,8 +13,16 @@
 
 ---
 
+<div align="left">
+
 ### 🌱 Actualmente aprendiendo
-**Vue.js**, **Vuetify**, y optimización de **interfaces modernas**.
+
+Explorando la integración de **inteligencia artificial** y **tecnología blockchain** en proyectos de desarrollo front-end y full-stack, con foco en **aplicaciones prácticas para la vida cotidiana**.  
+Busco combinar **innovación, diseño y funcionalidad** para crear soluciones digitales que conecten tecnología y experiencia humana.
+
+</div>
+
+---
 
 ### 👨‍💻 Mis proyectos
 Puedes verlos en mi portafolio 👉 [afmile.github.io/portafolio](https://afmile.github.io/portafolio/)
@@ -39,7 +46,7 @@ Puedes verlos en mi portafolio 👉 [afmile.github.io/portafolio](https://afmile
 
 ### 🛠️ Lenguajes y herramientas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,bootstrap,vuetify,sass,nodejs,firebase,git,babel,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,bootstrap,vuetify,sass,nodejs,firebase,git,babel,vscode,python" />
 </p>
 
 ---
