@@ -53,7 +53,7 @@ Puedes verlos en mi portafolio 👉 [afmile.github.io/portafolio](https://afmile
 
 ### ☕ Apóyame
 <p align="center">
-  <a href="https://www.buymeacoffee.com/amiguielesleche" target="_blank">
+  <a href="https://buymeacoffee.com/afmile" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" alt="BuyMeACoffee"/>
   </a>
   &nbsp;
@@ -61,6 +61,7 @@ Puedes verlos en mi portafolio 👉 [afmile.github.io/portafolio](https://afmile
     <img src="https://storage.ko-fi.com/cdn/kofi3.png?v=3" height="45" alt="Ko-fi"/>
   </a>
 </p>
+
 
 ---
 
