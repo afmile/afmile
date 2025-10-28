@@ -1,15 +1,15 @@
-<!-- Encabezado principal con animación -->
 <h1 align="center">👋 ¡Hola! Soy <strong>Álvaro Miguieles Lechenbauer</strong></h1>
 <h3 align="center">💻 Desarrollador Front-End • 🇨🇱 Chile</h3>
 
-<!-- Banner opcional animado -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C853&center=true&vCenter=true&width=500&lines=Desarrollador+Front-End;Apasionado+por+la+tecnología+web;Siempre+aprendiendo+algo+nuevo+🚀" alt="Typing SVG" />
-</p>
+<!-- ✅ Banner animado corregido -->
+<div align="center">
 
-<!-- Contador de vistas -->
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C853&center=true&vCenter=true&width=500&lines=Desarrollador+Front-End;Apasionado+por+la+tecnología+web;Siempre+aprendiendo+algo+nuevo+🚀)
+
+</div>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=afmile&label=Visitas+al+perfil&color=0e75b6&style=for-the-badge" alt="afmile" />
+  <img src="https://komarev.com/ghpvc/?username=afmile&label=Visitas+al+perfil&color=0e75b6&style=for-the-badge" alt="Contador de visitas" />
 </p>
 
 ---
@@ -67,4 +67,5 @@ Puedes verlos en mi portafolio 👉 [afmile.github.io/portafolio](https://afmile
 
 ### ✨ Frase que me representa
 > “El código es como el arte: mejora con la práctica, la paciencia y la pasión.” 🎨
+
 
