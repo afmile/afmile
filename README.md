@@ -35,6 +35,9 @@ Soy un desarrollador apasionado por crear experiencias web modernas y explorar l
 
 </div>
 
+
+</div>
+
 ---
 
 ### 🏆 Proyectos Destacados
