@@ -35,21 +35,6 @@ Soy un desarrollador apasionado por crear experiencias web modernas y explorar l
 
 </div>
 
-
-</div>
-
----
-
-### 📊 Estadísticas de GitHub
-
-<div align="center">
-
-[![Estadísticas de afmile](https://github-readme-stats.vercel.app/api?username=afmile&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Lenguajes Top](https://github-readme-stats.vercel.app/api/top-langs/?username=afmile&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
 ---
 
 ### 🏆 Proyectos Destacados
