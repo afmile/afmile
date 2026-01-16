@@ -1,79 +1,92 @@
-<h1 align="center">👋 ¡Hola! Soy <strong>Álvaro Miguieles Lechenbauer</strong></h1>
-<h3 align="center">💻 Desarrollador Front-End • 🇨🇱 Chile</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hola,%20soy%20Álvaro!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20|%20AI%20Enthusiast%20|%20Blockchain&descAlignY=51&descAlign=62" />
+</div>
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C853&center=true&vCenter=true&width=500&lines=Desarrollador+Front-End;Apasionado+por+la+tecnología+web;Integrando+IA+y+Blockchain+en+la+vida+real+🌍)
-
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=afmile&label=Visitas+al+perfil&color=0e75b6&style=for-the-badge" alt="Contador de visitas" />
-</p>
-
----
-
-<div align="left">
-
-### 🌱 Actualmente aprendiendo
-
-Explorando la integración de **inteligencia artificial** y **tecnología blockchain** en proyectos de desarrollo front-end y full-stack, con foco en **aplicaciones prácticas para la vida cotidiana**.  
-Busco combinar **innovación, diseño y funcionalidad** para crear soluciones digitales que conecten tecnología y experiencia humana.
+  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/amiguielesl)
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amiguieleslechenbauer) <!-- Necesitas poner tu usuario real aquí -->
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguieles.lechenbauer@gmail.com)
+  [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/)
 
 </div>
 
 ---
 
-### 👨‍💻 Mis proyectos
-Puedes verlos en mi portafolio 👉 [afmile.github.io/portafolio](https://afmile.github.io/portafolio/)
+### 🚀 Sobre mí
 
-### 📫 Contacto
-📩 **miguieles.lechenbauer@gmail.com**
+Soy un desarrollador apasionado por crear experiencias web modernas y explorar las fronteras de la Inteligencia Artificial y Blockchain. Actualmente enfocado en construir herramientas útiles y elegantes.
 
----
-
-### 🤝 Conecta conmigo
-<p align="center">
-  <a href="https://linkedin.com/in/amiguieleslechenbauer" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
-  </a>
-  <a href="https://discord.gg/ÁʟᴠᴀʀᴏML#9438" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord"/>
-  </a>
-</p>
+- 🔭 Trabajando en: **[DroidConnect](https://github.com/afmile/App-droidConnect)**, una GUI moderna para Android.
+- 🌱 Aprendiendo: **Rust** y **Arquitectura de Sistemas Distribuidos**.
+- ⚡ Dato curioso: ¡Me encanta optimizar flujos de trabajo!
 
 ---
 
-### 🛠️ Lenguajes y herramientas
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,bootstrap,vuetify,sass,nodejs,firebase,git,babel,vscode,python" />
-</p>
+### 🛠️ Tech Stack
+
+<div align="center">
+
+| Frontend | Backend & Tools | AI & Blockchain |
+| :---: | :---: | :---: |
+| ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) | ![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) | ![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) | ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) |
+| ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | ![Web3](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) |
+
+</div>
 
 ---
 
-### ☕ Apóyame
-<p align="center">
-  <a href="https://buymeacoffee.com/afmile" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" alt="BuyMeACoffee"/>
-  </a>
-  &nbsp;
-  <a href="https://ko-fi.com/alvaroml" target="_blank">
-    <img src="https://storage.ko-fi.com/cdn/kofi3.png?v=3" height="45" alt="Ko-fi"/>
-  </a>
-</p>
+### 📊 Estadísticas de GitHub
 
+<div align="center">
+
+[![Estadísticas de afmile](https://github-readme-stats.vercel.app/api?username=afmile&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Lenguajes Top](https://github-readme-stats.vercel.app/api/top-langs/?username=afmile&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 ---
 
-### 📊 Estadísticas
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=afmile&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afmile&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
+### 🏆 Proyectos Destacados
 
----
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📱 DroidConnect</h3>
+      <div align="center">
+        <a href="https://github.com/afmile/App-droidConnect">
+          <img src="https://via.placeholder.com/300x150?text=DroidConnect+App" alt="DroidConnect" />
+        </a>
+        <br />
+        <br />
+        <!-- Badges del proyecto -->
+        <a href="https://github.com/afmile/App-droidConnect/stargazers"><img src="https://img.shields.io/github/stars/afmile/App-droidConnect?style=social" alt="Stars Badge"/></a>
+        <a href="https://github.com/afmile/App-droidConnect/network/members"><img src="https://img.shields.io/github/forks/afmile/App-droidConnect?style=social" alt="Forks Badge"/></a>
+        <br />
+        <br />
+        <i>Una GUI premium para scrcpy en Linux. Controla tu Android con estilo.</i>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">💼 Portafolio</h3>
+      <div align="center">
+        <a href="https://afmile.github.io/portafolio/">
+          <img src="https://via.placeholder.com/300x150?text=Portafolio+Personal" alt="Portafolio" />
+        </a>
+        <br />
+        <br />
+         <!-- Badges del proyecto -->
+        <a href="https://github.com/afmile/portafolio/stargazers"><img src="https://img.shields.io/github/stars/afmile/portafolio?style=social" alt="Stars Badge"/></a>
+        <br />
+        <br />
+        <i>Mi sitio personal mostrando mis habilidades y trayectoria.</i>
+      </div>
+    </td>
+  </tr>
+</table>
 
-### ✨ Frase que me representa
-> “El código es como el arte: mejora con la práctica, la paciencia y la pasión.” 🎨
-
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=afmile&label=Vistas+de+Perfil&color=0e75b6&style=flat" alt="afmile" />
+</div>
